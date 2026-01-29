@@ -10,7 +10,7 @@ Studying mathematical aspects of quantum field theories, I do what I love and lo
 ---
 
 ### 🔬 Interests  
-- Gauge theories & Holography
+- Gauge theories & Quantum gravity
 - Algebraic Geometry & Higher Categories 
 - Poetry for Mathematics  
 - Game Theory & Game Design
