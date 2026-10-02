@@ -1,18 +1,18 @@
 # 👋 **Léo Buisine**
 
-Studying mathematical aspects of quantum field theories, I do what I love and love what I do.
+Studying non-perturbative aspects of string theory, I do what I love and love what I do.
 
 ---
 
 ### 🎓 Currently  
-**ENS Paris** — Master in Theoretical Physics & Mathematics
+**LPTHE, Sorbonne Université** — PhD in Mathematical Physics
 
 ---
 
 ### 🔬 Interests  
 - Gauge theories & Quantum gravity
 - Algebraic Geometry & Higher Categories 
-- Poetry for Mathematics  
+- Poetry and Translation
 - Game Theory & Game Design
 
 ---
